@@ -3,4 +3,4 @@ This project is a simple Library Management System. This project consists of 2 d
 
 
 
-<img src="./Screenshots/WhatsApp Image 2020-03-27 at 19.14.43.jpeg" width=30%>          
+<img src=".jpeg" width=30%>          
