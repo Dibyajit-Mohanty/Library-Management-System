@@ -3,4 +3,4 @@ This project is a simple Library Management System. This project consists of 2 d
 
 
 
-<img src=".jpeg" width=30%>          
+<img src="./images/Screenshot (53).png" width=30%>          
