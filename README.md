@@ -14,3 +14,7 @@ This project is a simple Library Management System. This project consists of 2 d
 
 ## User_login
 <img src="./images/Screenshot (56).png" width=50%> 
+
+## Statistics
+<img src="./images/Screenshot (76).png" width=50%> 
+
