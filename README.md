@@ -3,8 +3,8 @@ This project is a simple Library Management System. This project consists of 2 d
 
 
 ## LoginPage 
-<img src="./images/Screenshot (53).png" width=50%>
-<img src="./images/Screenshot (55).png" width=50%>
+<img src="./images/Screenshot (53).png" width=50%>         <img src="./images/Screenshot (55).png" width=50%>
+
 
 ## Adminstrator
 <img src="./images/Screenshot (54).png" width=50%>   
